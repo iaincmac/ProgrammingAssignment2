@@ -1,6 +1,4 @@
-# Put comments here that give an overall description of what your
-# functions do
-#
+
 # makeCacheMatrix provides a lis of functions to the working environment to :
 # a. set the value of the matrix 
 # b. get the value of the matrix 
